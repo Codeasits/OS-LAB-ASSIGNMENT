@@ -2,12 +2,12 @@
 
 Student and Submission Details
 
-Name: Shami Ahmad
-Roll Number: 2301010030
-Course Code & Name: ENCS351 Operating System Lab
-Program: B.Tech CSE (Sem-05)
-Course Teacher: Mrs. Suman
-Assignments Covered: Lab Assignment Sheet-1 & Sheet-2
+.Name: Shami Ahmad
+.Roll Number: 2301010030
+.Course Code & Name: ENCS351 Operating System Lab
+.Program: B.Tech CSE (Sem-05)
+.Course Teacher: Mrs. Suman
+#Assignments Covered: Lab Assignment Sheet-1 & Sheet-2
 
 
 Lab Assignments Overview
